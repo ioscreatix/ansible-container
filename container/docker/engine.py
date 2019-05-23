@@ -87,7 +87,8 @@ PREBAKED_DISTROS = {
     'ubuntu:precise': ['ubuntu:12.04'],
     'ubuntu:trusty': ['ubuntu:14.04'],
     'ubuntu:xenial': ['ubuntu:16.04'],
-    # 'ubuntu:zesty': ['ubuntu:17.04'],
+    'ubuntu:zesty': ['ubuntu:17.04'],
+    'ubuntu:bionic': ['ubuntu:18.04'],
     'alpine:3.5': ['alpine:latest'],
     'alpine:3.4': []
 }
